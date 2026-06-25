@@ -108,13 +108,13 @@ Do not restrict to the last seven days. Bias toward the last few months for fres
 5. Verify every finalist by fetching its abstract page and confirming the title, authors, and that the content matches the claim you are about to make. Never invent an identifier or link. If you cannot verify a paper, drop it and pull the next ranked candidate.
 6. Select the top 5 per domain. If fewer than 5 clear the bar, fill the remainder with verified timeless gems rather than weak recent papers, and say so in the output.
 7. Group the 20 into 2 to 4 cross cutting threads and write the synthesis.
-8. Write the dated output file, append the 20 picks to reading-log.md, and push.
+8. Write the dated output file to briefs/YYYY-MM/MM-DD-YY.md (create the month folder if it does not exist), append the 20 picks to reading-log.md at the repo root, and push.
 
 ---
 
 ## Output
 
-Write a single markdown file named for the run date in MM-DD-YY form, for example 06-25-26.md, in the repo.
+Write a single markdown file named for the run date in MM-DD-YY form, for example 06-25-26.md, inside a month folder under briefs/, that is briefs/YYYY-MM/MM-DD-YY.md, for example briefs/2026-06/06-25-26.md. Create the month folder if it does not exist.
 
 Structure:
 
@@ -146,7 +146,7 @@ Write in direct, concise prose. No em dashes. No hedging. No flowery or corporat
 ## Setup notes
 
 - The agent needs network access, web fetch, the PubMed and bioRxiv connectors, and read and write access to the repo.
-- This prompt file lives in the repo so the routine can read it. The dedup log reading-log.md and the dated outputs also live in the repo. The agent creates reading-log.md on the first run if it does not exist.
+- This prompt file lives in the repo so the routine can read it. The dedup log reading-log.md lives at the repo root, and the dated outputs live under briefs/YYYY-MM/. The agent creates reading-log.md on the first run if it does not exist, and creates the month folder under briefs/ as needed.
 - Network access in the cloud environment is limited by default. Enable it and allow arxiv.org, export.arxiv.org, and the journal domains, or most of the Bayesian, information geometry, and measurement picks will fail.
 - To retune a domain, edit its scope block. The measurement theory anchor is the most likely knob.
 - Optional: email the finished list to yourself through the Gmail connector at the end of the run.
