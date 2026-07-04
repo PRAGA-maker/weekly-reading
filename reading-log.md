@@ -44,3 +44,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 06-25-26 | Information geometry | Fisher Width: A Geometric Measure of Complexity on Statistical Manifolds | https://arxiv.org/abs/2606.18306 |
 | 06-25-26 | Information geometry | Information-Geometric Optimization on Spheres | https://arxiv.org/abs/2606.07588 |
 | 06-25-26 | Information geometry | The macroscopic Kähler metric of Geometric Thermodynamics versus the microscopic one on the Event Manifold | https://arxiv.org/abs/2606.09438 |
+| 07-01-26 | Bayesian statistics | Inverse Probability Weighting in a Post-Bayesian World | https://arxiv.org/abs/2606.28685 |
+| 07-01-26 | Bayesian statistics | To select or not to select: predictively consistent priors instead of model selection | https://arxiv.org/abs/2606.22850 |
+| 07-01-26 | Bayesian statistics | Closed-form solutions to some generalized variational inference problems | https://arxiv.org/abs/2606.25492 |
+| 07-01-26 | Bayesian statistics | Leveraging tails for adaptation | https://arxiv.org/abs/2606.20480 |
+| 07-01-26 | Bayesian statistics | Measurement Induced Confounding | https://arxiv.org/abs/2606.28774 |
+| 07-01-26 | Learning theory | Singular Learning and Occam's Razor in Deep Monomial Networks | https://arxiv.org/abs/2606.28464 |
+| 07-01-26 | Learning theory | SGD at the Edge of Stability: Stochastic Stabilization with Large Learning Rates | https://arxiv.org/abs/2606.30930 |
+| 07-01-26 | Learning theory | SGD Provably Prioritizes a Shortcut Spurious Feature in the XOR Model | https://arxiv.org/abs/2606.30444 |
+| 07-01-26 | Learning theory | Blackwell Approachability and Gradient Equilibrium are Equivalent | https://arxiv.org/abs/2606.27315 |
+| 07-01-26 | Learning theory | Fast algorithms for learning a Gaussian under halfspace truncation with optimal sample complexity | https://arxiv.org/abs/2606.27298 |
+| 07-01-26 | Target trial emulation | The Ideal Trial: Defining Causal Estimands that Balance Relevance and Feasibility in Target Trial Emulations and Actual Randomized Trials | https://doi.org/10.1097/EDE.0000000000001933 |
+| 07-01-26 | Target trial emulation | Clarifying Causal Questions in Population Health Research: Anatomy of a Causal Estimand | https://doi.org/10.1093/aje/kwag079 |
+| 07-01-26 | Target trial emulation | Target trial emulation without matching: a more efficient approach for evaluating vaccine effectiveness using observational data | https://doi.org/10.1097/EDE.0000000000001982 |
+| 07-01-26 | Target trial emulation | Evaluation of potential approaches for counting person-time in instances where no active comparator is present | https://doi.org/10.1093/aje/kwaf266 |
+| 07-01-26 | Target trial emulation | Target trial emulation under nonmutually exclusive assignment: structural pitfalls and methodological remedies | https://doi.org/10.1093/aje/kwag014 |
+| 07-01-26 | Information geometry | Group invariance of f-divergences and the Fisher-Rao distance | https://arxiv.org/abs/2606.25790 |
+| 07-01-26 | Information geometry | Reformulation Invariance and the Axiomatic Foundations of Inference | https://arxiv.org/abs/2606.21551 |
+| 07-01-26 | Information geometry | Ricci flow for the Bures-Helstrom qubit metric | https://arxiv.org/abs/2606.19493 |
+| 07-01-26 | Information geometry | Information Geometry via the Q-Root Transform | https://arxiv.org/abs/2603.20081 |
+| 07-01-26 | Information geometry | An equivalence of moment closure and nonlinear variational approximation of the Fokker-Planck equation for dilute polymeric flow | https://arxiv.org/abs/2602.04644 |
