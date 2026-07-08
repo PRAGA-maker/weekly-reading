@@ -64,3 +64,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 07-01-26 | Information geometry | Ricci flow for the Bures-Helstrom qubit metric | https://arxiv.org/abs/2606.19493 |
 | 07-01-26 | Information geometry | Information Geometry via the Q-Root Transform | https://arxiv.org/abs/2603.20081 |
 | 07-01-26 | Information geometry | An equivalence of moment closure and nonlinear variational approximation of the Fokker-Planck equation for dilute polymeric flow | https://arxiv.org/abs/2602.04644 |
+| 07-08-26 | Bayesian statistics | Posterior uncertainty for kernel density estimates | https://arxiv.org/abs/2607.03927 |
+| 07-08-26 | Bayesian statistics | Asymptotic regimes for maximum likelihood estimation in the Ewens-Pitman model: When the strength parameter matters | https://arxiv.org/abs/2606.13554 |
+| 07-08-26 | Bayesian statistics | Merging of Bayes and quasi-Bayes empirical Bayes procedures for Poisson compound decisions | https://arxiv.org/abs/2607.02340 |
+| 07-08-26 | Bayesian statistics | Geometric Causal Models | https://arxiv.org/abs/2607.05153 |
+| 07-08-26 | Bayesian statistics | Default priors for Gaussian processes | https://arxiv.org/abs/math/0505603 |
+| 07-08-26 | Learning theory | Stable Minima of ReLU Neural Networks Suffer from the Curse of Dimensionality: The Neural Shattering Phenomenon | https://arxiv.org/abs/2506.20779 |
+| 07-08-26 | Learning theory | Implicit Bias of SGD in Multivariate ReLU Networks: Effective Width Collapse | https://arxiv.org/abs/2607.03613 |
+| 07-08-26 | Learning theory | Phase Transitions in Attention: A Bayesian Theory of Copy Head Emergence | https://arxiv.org/abs/2606.12058 |
+| 07-08-26 | Learning theory | A theory of learning data statistics in diffusion models, from easy to hard | https://arxiv.org/abs/2603.12901 |
+| 07-08-26 | Learning theory | Outliers with Opposing Signals Have an Outsized Effect on Neural Network Optimization | https://arxiv.org/abs/2311.04163 |
+| 07-08-26 | Target trial emulation | Comparison of the Test-negative Design and Cohort Design With Explicit Target Trial Emulation for Evaluating COVID-19 Vaccine Effectiveness | https://doi.org/10.1097/EDE.0000000000001709 |
+| 07-08-26 | Target trial emulation | Reflection on Modern Methods: trial emulation in the presence of immortal-time bias | https://doi.org/10.1093/ije/dyaa057 |
+| 07-08-26 | Target trial emulation | Can metformin prevent cancer relative to sulfonylureas? A target trial emulation accounting for competing risks and poor overlap via double/debiased machine learning estimators | https://doi.org/10.1093/aje/kwae217 |
+| 07-08-26 | Target trial emulation | Illustrating an Adaptive Prespecification Framework for Observational Research: Target Trial Emulations Comparing Immunomodulator Treatments for COVID-19 | https://doi.org/10.1097/EDE.0000000000001901 |
+| 07-08-26 | Target trial emulation | Methodological Challenges of Emulating a Target Trial to Assess Timing of PCSK9 Inhibitor Initiation Post Myocardial Infarction | https://doi.org/10.1002/pds.70354 |
+| 07-08-26 | Information geometry | Information-Geometric Signatures of Nonconservative Driving | https://arxiv.org/abs/2605.03757 |
+| 07-08-26 | Information geometry | Quantum Fisher Information for Entropy of Gibbs States | https://arxiv.org/abs/2603.16456 |
+| 07-08-26 | Information geometry | Exponential families from a single KL identity | https://arxiv.org/abs/2604.28036 |
+| 07-08-26 | Information geometry | Efficient coding under constraint drives neural systems towards criticality and sloppiness | https://arxiv.org/abs/2605.22598 |
+| 07-08-26 | Information geometry | Asymmetric Relaxations Through the Lens of Information Geometry | https://arxiv.org/abs/2402.14267 |
