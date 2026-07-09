@@ -52,7 +52,7 @@ Score a paper higher for each that applies. Two or more and it is a strong candi
 - A surprising or negative result. It shows a standard practice is biased, unidentifiable, or wrong, or that something believed hard is easy, or the reverse. These are rare and they change how you work, so they almost always make the list.
 - A cross domain import that pays rent. It borrows machinery from geometry, physics, or information theory and uses it to prove or reveal something, not to decorate. The test: remove the borrowed structure and the result collapses. If the result survives without it, the structure was garnish.
 - A clean derivation you could teach from. Assumptions stated plainly, the load bearing lemma visible, notation that helps rather than hides. Good writing is a signal of good thinking here.
-- An under cited sleeper. An older or quiet paper whose idea is load bearing for current work, found by chasing references from a paper you already respect. Surface at least one of these per domain when it beats the recent options.
+- An under cited sleeper. An older or quiet paper whose idea is load bearing for current work, found by chasing references from a paper you already respect. Surface at least one of these per domain when it beats the recent options. Put serious thought here -- don't undervalue this point. Theory, blogs, writings that influenced many, proved optimal-approaches, or set bounds.
 - Honest framing. It states limits, reports where the method fails, and does not oversell. Distrust abstracts that name no failure modes.
 
 ### What to reject (antipatterns)
