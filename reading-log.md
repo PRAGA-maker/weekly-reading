@@ -137,3 +137,12 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 07-09-26 | ICML26 Information geometry | A Dirac-Frenkel-Onsager Principle: Instantaneous Residual Minimization with Gauge Momentum for Nonlinear Parametrizations of PDE Solutions | http://arxiv.org/abs/2605.00284v1 |
 | 07-09-26 | ICML26 Information geometry | $f$-Trajectory Balance: A Loss Family for Tuning GFlowNets, Generative Models, and LLMs with Off- and On-Policy Data | http://arxiv.org/abs/2605.15417v1 |
 | 07-09-26 | ICML26 Information geometry | Approximating f-Divergences with Rank Statistics | http://arxiv.org/abs/2601.22784v2 |
+| 07-09-26 | ICML26 Virtual cell | CellBRIDGE: Learning Cellular Trajectories via Interaction-Aware Alignment | http://arxiv.org/abs/2605.30635v1 |
+| 07-09-26 | ICML26 Transferable method | Leveraging Gauge Freedom for Learning Non-Gradient Population Dynamics of Stochastic Systems | http://arxiv.org/abs/2605.25107v1 |
+| 07-09-26 | ICML26 Transferable method | Two-Parameter Flows for Learning Population Dynamics of Physical Systems | http://arxiv.org/abs/2605.26285v1 |
+| 07-09-26 | ICML26 Transferable method | Multimarginal flow matching with optimal transport potentials | http://arxiv.org/abs/2606.05327v1 |
+| 07-09-26 | ICML26 Information geometry | Relative Entropy Estimation in Function Space: Theory and Applications to Trajectory Inference | http://arxiv.org/abs/2604.20775v1 |
+| 07-09-26 | ICML26 Transferable method | Domain Transfer Becomes Identifiable via a Single Alignment | http://arxiv.org/abs/2605.17918v1 |
+| 07-09-26 | ICML26 Learning theory | Sharpness-Aware Minimization Can Hallucinate Minimizers | http://arxiv.org/abs/2509.21818v2 |
+| 07-09-26 | ICML26 Information geometry | Attention Implements the Fisher Geometry of Exponential Families | https://openreview.net/forum?id=Mzdg78Zg7l |
+| 07-09-26 | ICML26 Information geometry | Exploiting weight-space symmetries for approximating curvature | http://arxiv.org/abs/2606.00442v1 |
