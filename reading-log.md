@@ -146,3 +146,27 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 07-09-26 | ICML26 Learning theory | Sharpness-Aware Minimization Can Hallucinate Minimizers | http://arxiv.org/abs/2509.21818v2 |
 | 07-09-26 | ICML26 Information geometry | Attention Implements the Fisher Geometry of Exponential Families | https://openreview.net/forum?id=Mzdg78Zg7l |
 | 07-09-26 | ICML26 Information geometry | Exploiting weight-space symmetries for approximating curvature | http://arxiv.org/abs/2606.00442v1 |
+| 07-09-26 | ICML26 Solid: Virtual cell | Towards Universal Gene Regulatory Network Inference: Unlocking Generalizable Regulatory Knowledge in Single-cell Foundation Models | http://arxiv.org/abs/2605.08128v1 |
+| 07-09-26 | ICML26 Solid: Virtual cell | WFR-MFM: One-Step Inference for Dynamic Unbalanced Optimal Transport | http://arxiv.org/abs/2601.20606v1 |
+| 07-09-26 | ICML26 Solid: Virtual cell | InfoGlobe: Local-and-Global Information-Preserving Statistical Manifold Learning for Single-Cell Transcriptomics | https://openreview.net/forum?id=LMrsqvShfy |
+| 07-09-26 | ICML26 Solid: Virtual patient | Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference | http://arxiv.org/abs/2606.07677v1 |
+| 07-09-26 | ICML26 Solid: Virtual patient | Physiology as Language: Translating Respiration to EEG during Sleep | http://arxiv.org/abs/2602.00526v1 |
+| 07-09-26 | ICML26 Solid: Virtual patient | Online Learning and Inference for Cox Proportional Hazards Model Using Renewable Sieve Estimation | https://openreview.net/forum?id=TvLOddG9Ay |
+| 07-09-26 | ICML26 Solid: bioLM | Predicting evolutionary rate as a pretraining task improves genome language model representations | https://openreview.net/forum?id=FOIP4Blm4F |
+| 07-09-26 | ICML26 Solid: bioLM | Protein Autoregressive Modeling via Multiscale Structure Generation | http://arxiv.org/abs/2602.04883v2 |
+| 07-09-26 | ICML26 Solid: bioLM | Elign: Equivariant Diffusion Model Alignment from Foundational Machine Learned Force Fields | http://arxiv.org/abs/2601.21985v1 |
+| 07-09-26 | ICML26 Solid: Transferable methods | Smooth Dynamic Cutoffs for Machine Learning Interatomic Potentials | http://arxiv.org/abs/2601.21147v1 |
+| 07-09-26 | ICML26 Solid: Transferable methods | Counterfactual Residual Data Augmentation for Regression | http://arxiv.org/abs/2606.28460v1 |
+| 07-09-26 | ICML26 Solid: Transferable methods | Influence-Guided Symbolic Regression: Scientific Discovery via LLM-Driven Equation Search with Granular Feedback | http://arxiv.org/abs/2605.29184v1 |
+| 07-09-26 | ICML26 Solid: Bayesian statistics | Statistical Early Stopping for Reasoning Models | http://arxiv.org/abs/2602.13935v1 |
+| 07-09-26 | ICML26 Solid: Bayesian statistics | DC-LA: Difference-of-Convex Langevin Algorithm | http://arxiv.org/abs/2601.22932v2 |
+| 07-09-26 | ICML26 Solid: Bayesian statistics | Estimating Tail Risks in Language Model Output Distributions | http://arxiv.org/abs/2604.22167v2 |
+| 07-09-26 | ICML26 Solid: Learning theory | Global Convergence of Adaptive Sensing for Principal Eigenvector Estimation | http://arxiv.org/abs/2505.10882v2 |
+| 07-09-26 | ICML26 Solid: Learning theory | Gradient Regularization Mitigates Reward Hacking in RLHF and Verifiable Rewards | http://arxiv.org/abs/2602.18037v2 |
+| 07-09-26 | ICML26 Solid: Learning theory | Linear Regression with Unknown Truncation Beyond Gaussian Features | http://arxiv.org/abs/2602.12534v2 |
+| 07-09-26 | ICML26 Solid: Causal inference | Outcome-Aware Spectral Feature Learning for Instrumental Variable Regression | http://arxiv.org/abs/2512.00919v2 |
+| 07-09-26 | ICML26 Solid: Causal inference | Feasible Fusion: Constrained Joint Estimation under Structural Non-Overlap | http://arxiv.org/abs/2602.22612v1 |
+| 07-09-26 | ICML26 Solid: Causal inference | Learning Treatment Allocations with Risk Control Under Partial Identifiability | http://arxiv.org/abs/2505.08378v1 |
+| 07-09-26 | ICML26 Solid: Information geometry | Modelling Attention with Aitchison Geometry: Token Distinguishability and Temperature Scaling | https://openreview.net/forum?id=1hBJuMSEKs |
+| 07-09-26 | ICML26 Solid: Information geometry | Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles | http://arxiv.org/abs/2606.09718v1 |
+| 07-09-26 | ICML26 Solid: Information geometry | Row-Stochastic Matrices Can Provably Outperform Doubly Stochastic Matrices in Decentralized Learning | http://arxiv.org/abs/2511.19513v3 |
