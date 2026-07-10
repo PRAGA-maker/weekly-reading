@@ -84,3 +84,56 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 07-08-26 | Information geometry | Exponential families from a single KL identity | https://arxiv.org/abs/2604.28036 |
 | 07-08-26 | Information geometry | Efficient coding under constraint drives neural systems towards criticality and sloppiness | https://arxiv.org/abs/2605.22598 |
 | 07-08-26 | Information geometry | Asymmetric Relaxations Through the Lens of Information Geometry | https://arxiv.org/abs/2402.14267 |
+
+| 07-09-26 | ICML26 Virtual cell | Deep Learning for BioImaging: What Are We Really Learning? | https://openreview.net/forum?id=ZgJlDylia4 |
+| 07-09-26 | ICML26 Virtual cell | Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots | http://arxiv.org/abs/2605.00545v2 |
+| 07-09-26 | ICML26 Virtual cell | A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity | http://arxiv.org/abs/2511.13899v2 |
+| 07-09-26 | ICML26 Virtual cell | Identifying Connectivity Distributions from Neural Dynamics Using Flows | http://arxiv.org/abs/2603.26506v2 |
+| 07-09-26 | ICML26 Virtual cell | Needles in the Haystack: Addressing Signal Dilution Improves scRNA-seq Perturbation Response Modeling and Evaluation | https://openreview.net/forum?id=XsrXLPxBJw |
+| 07-09-26 | ICML26 Virtual cell | Interpretable Neural ODEs for Gene Regulatory Network Discovery under Perturbations | http://arxiv.org/abs/2501.02409v6 |
+| 07-09-26 | ICML26 Virtual cell | Modeling Temporal scRNA-seq Data with Latent Gaussian Process and Optimal Transport | http://arxiv.org/abs/2605.20989v1 |
+| 07-09-26 | ICML26 Virtual patient | MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training | http://arxiv.org/abs/2602.02494v2 |
+| 07-09-26 | ICML26 Virtual patient | Training-Free Adversarial Robustness in Computational MRI | http://arxiv.org/abs/2501.01908v4 |
+| 07-09-26 | ICML26 Virtual patient | Automatic Construction of Clinical Scoring Systems with LLM Agents | http://arxiv.org/abs/2601.22324v2 |
+| 07-09-26 | ICML26 bioLM | Conditionally Site-Independent Neural Evolution of Antibody Sequences | http://arxiv.org/abs/2602.18982v4 |
+| 07-09-26 | ICML26 bioLM | Autoregressive Boltzmann Generators | http://arxiv.org/abs/2606.27361v1 |
+| 07-09-26 | ICML26 bioLM | Induction Meets Biology: Mechanisms of Repeat Detection in Protein Language Models | http://arxiv.org/abs/2602.23179v4 |
+| 07-09-26 | ICML26 bioLM | PepCompass: Navigating Peptide Embedding Spaces Using Riemannian Geometry | http://arxiv.org/abs/2510.01988v5 |
+| 07-09-26 | ICML26 bioLM | Inference-time optimization for experiment-grounded protein ensemble generation | http://arxiv.org/abs/2602.24007v3 |
+| 07-09-26 | ICML26 bioLM | APEX: Approximate-but-exhaustive search for ultra-large combinatorial synthesis libraries | http://arxiv.org/abs/2510.24380v2 |
+| 07-09-26 | ICML26 Transferable method | Generative Modeling of Discrete Latent Structures via Dynamic Policy Gradients | http://arxiv.org/abs/2606.07400v1 |
+| 07-09-26 | ICML26 Transferable method | Riemannian Metric Matching for Scalable Geometric Modeling of Distributions | http://arxiv.org/abs/2606.14334v1 |
+| 07-09-26 | ICML26 Transferable method | Tilt Matching for Scalable Sampling and Fine-Tuning | http://arxiv.org/abs/2512.21829v1 |
+| 07-09-26 | ICML26 Transferable method | Abstraction Induces the Brain Alignment of Language and Speech Models | http://arxiv.org/abs/2602.04081v1 |
+| 07-09-26 | ICML26 Transferable method | Probing the Geometry of Diffusion Models with the String Method | http://arxiv.org/abs/2602.22122v1 |
+| 07-09-26 | ICML26 Transferable method | The Geometry of Sequential Learning: Lie-Bracket Prediction of Transfer Order | http://arxiv.org/abs/2606.24993v1 |
+| 07-09-26 | ICML26 Transferable method | Spectral Guidance for Flexible and Efficient Control of Diffusion Models | http://arxiv.org/abs/2605.28900v1 |
+| 07-09-26 | ICML26 Transferable method | Excited Pfaffians: Generalized Neural Wave Functions Across Structure and State | http://arxiv.org/abs/2603.14515v2 |
+| 07-09-26 | ICML26 Bayesian statistics | Markov Chain Monte Carlo without Evaluating the Target: an Auxiliary Variable Approach | http://arxiv.org/abs/2406.05242v4 |
+| 07-09-26 | ICML26 Bayesian statistics | Score-Repellent Monte Carlo: Toward Efficient Non-Markovian Sampler with Constant Memory in General State Spaces | http://arxiv.org/abs/2604.22948v2 |
+| 07-09-26 | ICML26 Bayesian statistics | Predictive variational inference: Learn the predictively optimal posterior distribution | http://arxiv.org/abs/2410.14843v4 |
+| 07-09-26 | ICML26 Bayesian statistics | Is the Last Layer Sufficient for Uncertainty Quantification? | http://arxiv.org/abs/2605.30741v1 |
+| 07-09-26 | ICML26 Bayesian statistics | Gaussian Mean Field Variational Inference can Overestimate Predictive Variance | http://arxiv.org/abs/2606.25745v1 |
+| 07-09-26 | ICML26 Bayesian statistics | Sharp Inequalities between Total Variation and Hellinger Distances for Gaussian Mixtures | http://arxiv.org/abs/2602.03202v3 |
+| 07-09-26 | ICML26 Bayesian statistics | Semi-Supervised Hypothesis Testing by Betting on Predictions | http://arxiv.org/abs/2605.28533v1 |
+| 07-09-26 | ICML26 Learning theory | Online Conformal Prediction via Universal Portfolio Algorithms | http://arxiv.org/abs/2602.03168v1 |
+| 07-09-26 | ICML26 Learning theory | Success-Conditioning as Policy Improvement: The Optimization Problem Solved by Imitating Success | http://arxiv.org/abs/2601.18175v2 |
+| 07-09-26 | ICML26 Learning theory | A Fourier perspective on the learning dynamics of neural networks: from sample complexities to mechanistic insights | http://arxiv.org/abs/2605.16913v1 |
+| 07-09-26 | ICML26 Learning theory | DPO Unchained: Your Training Algorithm is Secretly Disentangled in Human Choice Theory (and Its Loss' Convexity is Dispensable) | http://arxiv.org/abs/2507.07855v4 |
+| 07-09-26 | ICML26 Learning theory | Gradient Flow Through Diagram Expansions: Learning Regimes and Explicit Solutions | http://arxiv.org/abs/2602.04548v2 |
+| 07-09-26 | ICML26 Learning theory | Deep sequence models tend to memorize geometrically; it is unclear why | http://arxiv.org/abs/2510.26745v3 |
+| 07-09-26 | ICML26 Learning theory | Non-Adversarial Imitation Learning Provably Free of Compounding Errors: The Value Flow Mechanism | http://arxiv.org/abs/2603.22713v2 |
+| 07-09-26 | ICML26 Causal inference | Causal Modeling of Selection in Evolution | http://arxiv.org/abs/2606.05689v1 |
+| 07-09-26 | ICML26 Causal inference | Sinkhorn Treatment Effects: A Causal Optimal Transport Measure | http://arxiv.org/abs/2605.08485v1 |
+| 07-09-26 | ICML26 Causal inference | Causal Identification from Counterfactual Data: Completeness and Bounding Results | http://arxiv.org/abs/2602.23541v2 |
+| 07-09-26 | ICML26 Causal inference | Towards a Holistic Understanding of Selection Bias for Causal Effect Identification | http://arxiv.org/abs/2605.13430v3 |
+| 07-09-26 | ICML26 Causal inference | Design-Based Anytime-Valid Inference for Randomized Experiments with Delayed Outcomes and Staggered Entry | http://arxiv.org/abs/2603.25971v2 |
+| 07-09-26 | ICML26 Causal inference | Optimal structure learning and conditional independence testing | http://arxiv.org/abs/2507.05689v3 |
+| 07-09-26 | ICML26 Causal inference | Addressing Instrument-Outcome Confounding in Mendelian Randomization through Representation Learning | http://arxiv.org/abs/2602.19782v1 |
+| 07-09-26 | ICML26 Information geometry | SVRG and Beyond via Posterior Correction | http://arxiv.org/abs/2512.01930v2 |
+| 07-09-26 | ICML26 Information geometry | Convex Distance Operator Transport: A Convex and Geometry-Preserving Formulation | http://arxiv.org/abs/2606.02047v1 |
+| 07-09-26 | ICML26 Information geometry | The Information Geometry of Softmax: Probing and Steering | http://arxiv.org/abs/2602.15293v2 |
+| 07-09-26 | ICML26 Information geometry | Learning Coherent Representations: A Topological Approach to Interpretability | http://arxiv.org/abs/2606.02841v1 |
+| 07-09-26 | ICML26 Information geometry | A Dirac-Frenkel-Onsager Principle: Instantaneous Residual Minimization with Gauge Momentum for Nonlinear Parametrizations of PDE Solutions | http://arxiv.org/abs/2605.00284v1 |
+| 07-09-26 | ICML26 Information geometry | $f$-Trajectory Balance: A Loss Family for Tuning GFlowNets, Generative Models, and LLMs with Off- and On-Policy Data | http://arxiv.org/abs/2605.15417v1 |
+| 07-09-26 | ICML26 Information geometry | Approximating f-Divergences with Rank Statistics | http://arxiv.org/abs/2601.22784v2 |
