@@ -170,3 +170,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 07-09-26 | ICML26 Solid: Information geometry | Modelling Attention with Aitchison Geometry: Token Distinguishability and Temperature Scaling | https://openreview.net/forum?id=1hBJuMSEKs |
 | 07-09-26 | ICML26 Solid: Information geometry | Evaluating the Representation Space of Diffusion Models via Self-Supervised Principles | http://arxiv.org/abs/2606.09718v1 |
 | 07-09-26 | ICML26 Solid: Information geometry | Row-Stochastic Matrices Can Provably Outperform Doubly Stochastic Matrices in Decentralized Learning | http://arxiv.org/abs/2511.19513v3 |
+| 07-15-26 | Bayesian statistics | Beyond Laplace: Closed-form wrapped Gaussian posterior approximations on statistical manifolds | https://arxiv.org/abs/2607.01909 |
+| 07-15-26 | Bayesian statistics | Exact computation of posterior distribution of mixture weights in hierarchical Bayesian models | https://arxiv.org/abs/2607.05692 |
+| 07-15-26 | Bayesian statistics | A causal modeling perspective on decision theory | https://arxiv.org/abs/2606.29911 |
+| 07-15-26 | Bayesian statistics | Calibrated Probability Forecast Sequences and Measure-Valued Martingales | https://arxiv.org/abs/2606.31621 |
+| 07-15-26 | Bayesian statistics | On the geometry of Bayesian inference | https://arxiv.org/abs/1701.08994 |
+| 07-15-26 | Learning theory | The Multiscale Single-Index Model: A Stylized Model for Hierarchical Feature Learning | https://arxiv.org/abs/2607.03347 |
+| 07-15-26 | Learning theory | Muon learns balanced solutions in matrix factorization without slow saddle-to-saddle dynamics | https://arxiv.org/abs/2606.30509 |
+| 07-15-26 | Learning theory | Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks | https://arxiv.org/abs/2604.09412 |
+| 07-15-26 | Learning theory | Broken Ergodicity and the Violation of the Fluctuation-Dissipation Theorem Lead to Generalization Beyond Overfitting in Machine Learning | https://arxiv.org/abs/2607.04135 |
+| 07-15-26 | Learning theory | Local minima and plateaus in hierarchical structures of multilayer perceptrons | https://doi.org/10.1016/S0893-6080(00)00009-5 |
+| 07-15-26 | Target trial emulation | Concordance between target trial emulation and randomised controlled trials: systematic review and meta-analysis | https://doi.org/10.1136/bmj-2025-086810 |
+| 07-15-26 | Target trial emulation | Prospective benchmarking of an observational analysis in the SWEDEHEART registry against the REDUCE-AMI randomized trial | https://doi.org/10.1007/s10654-024-01119-3 |
+| 07-15-26 | Target trial emulation | Observational data for comparative effectiveness research: an emulation of randomised trials of statins and primary prevention of coronary heart disease | https://doi.org/10.1177/0962280211403603 |
+| 07-15-26 | Target trial emulation | Studying When to Add Biological Therapy to Cytotoxic Therapy in Advanced Cancer Care Using Real World Data: How to Avoid Design Choices That Generate Immortal Time | https://doi.org/10.1002/cam4.71950 |
+| 07-15-26 | Target trial emulation | Practical elements to consider when emulating a target trial | https://doi.org/10.1016/j.jclinepi.2026.112205 |
+| 07-15-26 | Information geometry | Madelung hydrodynamics and Poisson geometry of wave functions | https://arxiv.org/abs/2607.01024 |
+| 07-15-26 | Information geometry | Wasserstein-2 gradient flows and the geometry of entropy production in classical and quantum stochastic thermodynamics | https://arxiv.org/abs/2606.00698 |
+| 07-15-26 | Information geometry | Newton's Algorithm as a Gradient Flow: A Geometric Framework for Recursive Mixture Estimation | https://arxiv.org/abs/2604.13341 |
+| 07-15-26 | Information geometry | Information Geometry of Absorbing Markov-Chain and Discriminative Random Walks | https://arxiv.org/abs/2602.08185 |
+| 07-15-26 | Information geometry | Defining the Curvature of a Statistical Problem (with Applications to Second Order Efficiency) | https://doi.org/10.1214/aos/1176343282 |
