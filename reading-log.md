@@ -190,3 +190,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 07-15-26 | Information geometry | Newton's Algorithm as a Gradient Flow: A Geometric Framework for Recursive Mixture Estimation | https://arxiv.org/abs/2604.13341 |
 | 07-15-26 | Information geometry | Information Geometry of Absorbing Markov-Chain and Discriminative Random Walks | https://arxiv.org/abs/2602.08185 |
 | 07-15-26 | Information geometry | Defining the Curvature of a Statistical Problem (with Applications to Second Order Efficiency) | https://doi.org/10.1214/aos/1176343282 |
+| 07-22-26 | Bayesian statistics | Some cautionary tales about Bayesian predictive inference | https://arxiv.org/abs/2607.19206 |
+| 07-22-26 | Bayesian statistics | Informative Distance-Based Priors for Correlation Matrices Centred on a Target Reference | https://arxiv.org/abs/2607.18926 |
+| 07-22-26 | Bayesian statistics | Amortized Inference for Sampling Distributions Where the Bootstrap Fails | https://arxiv.org/abs/2607.16666 |
+| 07-22-26 | Bayesian statistics | The Resolution of Causal Heterogeneity | https://arxiv.org/abs/2607.17280 |
+| 07-22-26 | Bayesian statistics | On the Consistency of Bayes Estimates | https://doi.org/10.1214/aos/1176349830 |
+| 07-22-26 | Learning theory | PAC-Bayes Bounds on Quotient Parameter Spaces: Geometry-induced Implicit-Bias Priors | https://arxiv.org/abs/2607.18422 |
+| 07-22-26 | Learning theory | The Price of Hidden Curvature: An Ω(d^{5/4}√T) Lower Bound for Bandit Convex Optimization | https://arxiv.org/abs/2607.18652 |
+| 07-22-26 | Learning theory | Mixing-Free and Signal-Optimal Learning of Gaussian Graphical Models from Glauber Dynamics | https://arxiv.org/abs/2607.18559 |
+| 07-22-26 | Learning theory | The Tractability Landscape of Sampling with Inexact Scores | https://arxiv.org/abs/2607.19004 |
+| 07-22-26 | Learning theory | Gradient Descent Converges to Minimizers | https://arxiv.org/abs/1602.04915 |
+| 07-22-26 | Target trial emulation | Nesting a Target Study within a Target Trial: A Framework for Evaluating Intervention Effects on Disparities | https://doi.org/10.1097/EDE.0000000000002024 |
+| 07-22-26 | Target trial emulation | Long-term Cardiovascular Outcomes Following Bariatric Surgery: Reconciling Seemingly Conflicting Evidence | https://doi.org/10.1097/EDE.0000000000001952 |
+| 07-22-26 | Target trial emulation | What Are We Estimating? Revisiting Standard Nutritional Models Through the Target Trial Framework | https://doi.org/10.1093/aje/kwag053 |
+| 07-22-26 | Target trial emulation | Antibiotics and Preterm Delivery: The Prevalent New-user Cohort Design to Resolve Immortal Time Bias | https://doi.org/10.1097/EDE.0000000000001947 |
+| 07-22-26 | Target trial emulation | The Hazards of Hazard Ratios | https://doi.org/10.1097/EDE.0b013e3181c1ea43 |
+| 07-22-26 | Information geometry | The Quantum Correction to Gaussian Information Geometry is the Killing Form of the Symplectic Algebra | https://arxiv.org/abs/2607.16376 |
+| 07-22-26 | Information geometry | Metric tensors and two-forms in information geometry from the GNS construction | https://arxiv.org/abs/2607.15800 |
+| 07-22-26 | Information geometry | Mutual Information second order expansion is the Pearson's chi-square statistic | https://arxiv.org/abs/2607.18425 |
+| 07-22-26 | Information geometry | On the Information Required for Feedback Control | https://arxiv.org/abs/2607.16639 |
+| 07-22-26 | Information geometry | Information and the Accuracy Attainable in the Estimation of Statistical Parameters | https://doi.org/10.1007/978-1-4612-0919-5_16 |
