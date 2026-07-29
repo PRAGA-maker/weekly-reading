@@ -55,10 +55,13 @@ Score a paper higher for each that applies. Two or more and it is a strong candi
 - An under cited sleeper. An older or quiet paper whose idea is load bearing for current work, found by chasing references from a paper you already respect. Surface at least one of these per domain when it beats the recent options. Put serious thought here -- don't undervalue this point. Theory, blogs, writings that influenced many, proved optimal-approaches, or set bounds.
 - Honest framing. It states limits, reports where the method fails, and does not oversell. Distrust abstracts that name no failure modes.
 
+I should not that these are patterns, do not overfit. Still use standard measures of quality such as non-AI generated content, tasteful and relevant blogs, publication history, and institution as secondary signals of quality.  
+
 ### What to reject (antipatterns)
 
 Any one of these is usually enough to cut a paper, regardless of how in domain it looks.
 
+- It matters. Does it seem likely the best person in the respective field will read this paper and be inspired? Be realistic; it is easy to identify dull "gems". (user note: over the past 2 months of readings, I would say real-gem rate is ~20% so however high and many-search aggressive you think this is, make it higher)
 - Leaderboard paper. The abstract leads with state of the art, a percentage gain, or tables of bolded numbers. The contribution is the score.
 - Scaling curve paper. The main result is a log log plot and there is no mechanism behind it.
 - Kitchen sink. The abstract lists five or six contributions, none of them deep. Breadth is hiding the absence of one real idea.
@@ -89,6 +92,7 @@ Tie breakers, in order: originality of the central idea, quality of writing and 
 
 Network access must be on for this to work. Three of the four domains live mostly on arXiv, which the connected connectors do not cover. Discover papers directly rather than relying on a search engine being present.
 
+- Google Scholar of top author's PhD students, or canonical author's other published work.
 - arXiv, primary for Bayesian statistics, information geometry, and much of learning theory. Use the arXiv API and the recent category listings. Query the API at export.arxiv.org/api/query with category and date filters, and pull recent listings from arxiv.org/list/stat.ME/recent and the same for stat.TH, math.ST, stat.ML, cs.LG, cs.IT, math.OC, cs.NE, math-ph, and q-bio.NC. Fetch each abstract page to verify before recommending.
 - PubMed connector, primary for target trial emulation. This is where Epidemiology, American Journal of Epidemiology, and the BMJ and JAMA methods sections live. Search target trial emulation, estimand, clone censor weight, immortal time bias, and validity.
 - bioRxiv connector, marginal here, useful only when a causal or learning idea shows up in a biology preprint.
