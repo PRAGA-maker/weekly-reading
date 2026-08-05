@@ -210,3 +210,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 07-22-26 | Information geometry | Mutual Information second order expansion is the Pearson's chi-square statistic | https://arxiv.org/abs/2607.18425 |
 | 07-22-26 | Information geometry | On the Information Required for Feedback Control | https://arxiv.org/abs/2607.16639 |
 | 07-22-26 | Information geometry | Information and the Accuracy Attainable in the Estimation of Statistical Parameters | https://doi.org/10.1007/978-1-4612-0919-5_16 |
+| 08-05-26 | Bayesian statistics | Seeing the Forest for the Trees: The Gaussian Process Limit of BART | https://arxiv.org/abs/2607.28844 |
+| 08-05-26 | Bayesian statistics | Calibrated Bayesian Inference for Stochastic Intervention Effects | https://arxiv.org/abs/2608.02924 |
+| 08-05-26 | Bayesian statistics | Generalised Robust Bayes for Joint Inference of Model and Contamination | https://arxiv.org/abs/2607.25665 |
+| 08-05-26 | Bayesian statistics | Inference on counterfactual distributions using martingale posteriors | https://arxiv.org/abs/2607.24143 |
+| 08-05-26 | Bayesian statistics | On a Class of Bayesian Nonparametric Estimates: I. Density Estimates | https://doi.org/10.1214/aos/1176346412 |
+| 08-05-26 | Learning theory | Dead Directions: Geometric Singular Learning | https://arxiv.org/abs/2606.05957 |
+| 08-05-26 | Learning theory | Zero Generalization Error Theorem for Random Interpolators via Algebraic Geometry | https://arxiv.org/abs/2512.06347 |
+| 08-05-26 | Learning theory | Approximate Message Passing with Random Initialization for Phase Retrieval | https://arxiv.org/abs/2608.01654 |
+| 08-05-26 | Learning theory | Relative Positions Generalize, Absolute Positions Memorize: An Implicit-Bias Account of Length Generalization in Attention | https://arxiv.org/abs/2607.18759 |
+| 08-05-26 | Learning theory | Stochastic Saddle Avoidance Beyond Unit Excitation and Smoothness: A Pathwise Lyapunov-Perron Framework | https://arxiv.org/abs/2608.03001 |
+| 08-05-26 | Target trial emulation | Vaccine Efficacy Against Naturally Asymptomatic Infections: A Novel Estimand for Quantifying Vaccine Effects | https://doi.org/10.1097/EDE.0000000000002021 |
+| 08-05-26 | Target trial emulation | Non-random selection with and without bias due to selecting on an exposure | https://doi.org/10.1097/EDE.0000000000002018 |
+| 08-05-26 | Target trial emulation | A Cautionary Note for Plasmode Simulation Studies in the Setting of Causal Inference | https://doi.org/10.1002/sim.70676 |
+| 08-05-26 | Target trial emulation | Causal Effects on Nonterminal Event Time With Application to Antibiotic Usage and Future Resistance | https://doi.org/10.1002/sim.70650 |
+| 08-05-26 | Target trial emulation | Defining and Estimating Outcomes Directly Averted by a Vaccination Program when Rollout Occurs Over Time | https://doi.org/10.1097/EDE.0000000000001953 |
+| 08-05-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
+| 08-05-26 | Information geometry | Quantization of Ricci Curvature in Information Geometry | https://arxiv.org/abs/2603.10054 |
+| 08-05-26 | Information geometry | Exact Likelihood and Sampling for Riemannian Gaussian Distributions on Correlation Matrices | https://arxiv.org/abs/2608.02593 |
+| 08-05-26 | Information geometry | Interventional Score Geometry for Causal Inference | https://arxiv.org/abs/2607.21914 |
+| 08-05-26 | Information geometry | On Conservative Statistical Riemann Surfaces | https://arxiv.org/abs/2605.09133 |
