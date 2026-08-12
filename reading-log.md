@@ -210,3 +210,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 07-22-26 | Information geometry | Mutual Information second order expansion is the Pearson's chi-square statistic | https://arxiv.org/abs/2607.18425 |
 | 07-22-26 | Information geometry | On the Information Required for Feedback Control | https://arxiv.org/abs/2607.16639 |
 | 07-22-26 | Information geometry | Information and the Accuracy Attainable in the Estimation of Statistical Parameters | https://doi.org/10.1007/978-1-4612-0919-5_16 |
+| 08-12-26 | Bayesian statistics | Seeing the Forest for the Trees: The Gaussian Process Limit of BART | https://arxiv.org/abs/2607.28844 |
+| 08-12-26 | Bayesian statistics | A Simple Example of Bayesian Nonparametric Inconsistency | https://arxiv.org/abs/2607.28958 |
+| 08-12-26 | Bayesian statistics | Embedding martingale diffusions as binary posteriors in sequential inference | https://arxiv.org/abs/2607.20373 |
+| 08-12-26 | Bayesian statistics | Exchangeable Testing Against an Unknown Benchmark | https://arxiv.org/abs/2608.04838 |
+| 08-12-26 | Bayesian statistics | On the Asymptotic Behavior of Bayes' Estimates in the Discrete Case | https://doi.org/10.1214/aoms/1177703871 |
+| 08-12-26 | Learning theory | Partial Differential Equation Barriers to Identifiability in Infinite Mixture Models | https://arxiv.org/abs/2608.08597 |
+| 08-12-26 | Learning theory | Langevin dynamics along the zero set of real-analytic potentials | https://arxiv.org/abs/2608.09840 |
+| 08-12-26 | Learning theory | The Phase Transition in Online PCA Depends on n/d log(d), not n/d | https://arxiv.org/abs/2607.23914 |
+| 08-12-26 | Learning theory | A Bifurcation Theory Framework for Gradient Descent on the Edge of Stability | https://arxiv.org/abs/2606.15551 |
+| 08-12-26 | Learning theory | The sample complexity of multi-reference alignment | https://arxiv.org/abs/1707.00943 |
+| 08-12-26 | Target trial emulation | On the Statistical Limitations of Landmark Analysis for Addressing Immortal Time Bias | https://doi.org/10.1002/sim.70679 |
+| 08-12-26 | Target trial emulation | Vaccine Efficacy Against Naturally Asymptomatic Infections: A Novel Estimand for Quantifying Vaccine Effects | https://doi.org/10.1097/EDE.0000000000002021 |
+| 08-12-26 | Target trial emulation | A Framework for Causal Estimand Selection Under Positivity Violations | https://doi.org/10.1093/biomtc/ujag014 |
+| 08-12-26 | Target trial emulation | An Operational Target Trial Emulation Framework for Causal Inference Using Electronic Health Record Data | https://doi.org/10.1038/s41746-026-02563-z |
+| 08-12-26 | Target trial emulation | How to Estimate the Effect of Treatment Duration on Survival Outcomes Using Observational Data | https://doi.org/10.1136/bmj.k182 |
+| 08-12-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
+| 08-12-26 | Information geometry | Ergotropic and passive contributions on the phase-space information geometry of Gaussian states | https://arxiv.org/abs/2607.09855 |
+| 08-12-26 | Information geometry | Information Geometry meets Functional ANOVA: An Exact Fisher-Information Decomposition | https://arxiv.org/abs/2608.05374 |
+| 08-12-26 | Information geometry | A Tractable Pseudo-Metric on Non-Parametric Exponential Statistical Manifolds via SPD Geometry | https://arxiv.org/abs/2607.11092 |
+| 08-12-26 | Information geometry | Riemannian geometry in thermodynamic fluctuation theory | https://doi.org/10.1103/RevModPhys.67.605 |
