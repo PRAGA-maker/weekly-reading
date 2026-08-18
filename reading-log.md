@@ -210,3 +210,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 07-22-26 | Information geometry | Mutual Information second order expansion is the Pearson's chi-square statistic | https://arxiv.org/abs/2607.18425 |
 | 07-22-26 | Information geometry | On the Information Required for Feedback Control | https://arxiv.org/abs/2607.16639 |
 | 07-22-26 | Information geometry | Information and the Accuracy Attainable in the Estimation of Statistical Parameters | https://doi.org/10.1007/978-1-4612-0919-5_16 |
+| 07-29-26 | Bayesian statistics | Constructing and extending n = 1 Bayesian confidence intervals for location parameters in location-scale families | https://arxiv.org/abs/2607.25007 |
+| 07-29-26 | Bayesian statistics | Proper Bayes minimax multiple shrinkage estimation | https://arxiv.org/abs/2607.23717 |
+| 07-29-26 | Bayesian statistics | Inference on counterfactual distributions using martingale posteriors | https://arxiv.org/abs/2607.24143 |
+| 07-29-26 | Bayesian statistics | Generalised Robust Bayes for Joint Inference of Model and Contamination | https://arxiv.org/abs/2607.25665 |
+| 07-29-26 | Bayesian statistics | Bayesianly Justifiable and Relevant Frequency Calculations for the Applied Statistician | https://doi.org/10.1214/aos/1176346785 |
+| 07-29-26 | Learning theory | Quotient Dynamics, Effective Curvature, and Implicit Bias in Positive Quadratic Networks | https://arxiv.org/abs/2607.25624 |
+| 07-29-26 | Learning theory | When Can You Correct Distribution Drift in Temporal Graph Generation? A Sharpening-Drift Tension and an Impossibility for Observation-Based Correction | https://arxiv.org/abs/2607.24662 |
+| 07-29-26 | Learning theory | Universal Refinement without Interaction: Order-Optimal 1-Bit Mean Estimation | https://arxiv.org/abs/2607.24358 |
+| 07-29-26 | Learning theory | Dead Directions: Geometric Singular Learning | https://arxiv.org/abs/2606.05957 |
+| 07-29-26 | Learning theory | On-line learning in soft committee machines | https://doi.org/10.1103/PhysRevE.52.4225 |
+| 07-29-26 | Target trial emulation | The Ideal Trial: Defining Causal Estimands that Balance Relevance and Feasibility in Target Trial Emulations and Actual Randomized Trials | https://doi.org/10.1097/EDE.0000000000001933 |
+| 07-29-26 | Target trial emulation | Target trial emulation under nonmutually exclusive assignment: structural pitfalls and methodological remedies | https://doi.org/10.1093/aje/kwag014 |
+| 07-29-26 | Target trial emulation | Target Trial Emulation for Evaluating Health Policy | https://doi.org/10.7326/M23-2440 |
+| 07-29-26 | Target trial emulation | Review of methods to deal with the misalignment of times of eligibility, start of follow-up, and treatment assignment in studies explicitly aimed at emulating target trials | https://doi.org/10.1016/j.jclinepi.2025.111898 |
+| 07-29-26 | Target trial emulation | When to start treatment? A systematic approach to the comparison of dynamic regimes using observational data | https://doi.org/10.2202/1557-4679.1212 |
+| 07-29-26 | Information geometry | Fisher Widths: Local Learning Geometry and Anisotropic Recovery | https://arxiv.org/abs/2607.20578 |
+| 07-29-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
+| 07-29-26 | Information geometry | Interventional Score Geometry for Causal Inference | https://arxiv.org/abs/2607.21914 |
+| 07-29-26 | Information geometry | Fisher-Geometric Sharpness and the Implicit Bias of SGD toward Flat Minima | https://arxiv.org/abs/2606.20469 |
+| 07-29-26 | Information geometry | I-Divergence Geometry of Probability Distributions and Minimization Problems | https://doi.org/10.1214/aop/1176996454 |
