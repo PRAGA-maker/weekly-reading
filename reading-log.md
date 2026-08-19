@@ -210,3 +210,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 07-22-26 | Information geometry | Mutual Information second order expansion is the Pearson's chi-square statistic | https://arxiv.org/abs/2607.18425 |
 | 07-22-26 | Information geometry | On the Information Required for Feedback Control | https://arxiv.org/abs/2607.16639 |
 | 07-22-26 | Information geometry | Information and the Accuracy Attainable in the Estimation of Statistical Parameters | https://doi.org/10.1007/978-1-4612-0919-5_16 |
+| 08-19-26 | Bayesian statistics | The concentration game: Bayesian updating, regret, and information | https://arxiv.org/abs/2608.18061 |
+| 08-19-26 | Bayesian statistics | Bessel-Debiased Pseudo-Marginal MCMC for Generalised Bayesian Inference | https://arxiv.org/abs/2608.16573 |
+| 08-19-26 | Bayesian statistics | Induction and the rule of succession through a possibilistic inferential model lens | https://arxiv.org/abs/2608.11935 |
+| 08-19-26 | Bayesian statistics | NP-LEAP: Nonparametric Latent Exchangeability Prior for Model-Lean Borrowing from Historical Data | https://arxiv.org/abs/2608.16688 |
+| 08-19-26 | Bayesian statistics | Game theory, maximum entropy, minimum discrepancy and robust Bayesian decision theory | https://arxiv.org/abs/math/0410076 |
+| 08-19-26 | Learning theory | The Phase Transition in Online PCA Depends on n/d log(d), not n/d | https://arxiv.org/abs/2607.23914 |
+| 08-19-26 | Learning theory | A Defense of the Quadratic Model | https://arxiv.org/abs/2607.21716 |
+| 08-19-26 | Learning theory | Sharp feature-learning transitions and Bayes-optimal neural scaling laws in extensive-width networks | https://arxiv.org/abs/2605.10395 |
+| 08-19-26 | Learning theory | Explaining Near-Zero Hessian Eigenvalues Through Approximate Symmetries in Neural Networks | https://arxiv.org/abs/2607.07845 |
+| 08-19-26 | Learning theory | The exact information-based complexity of smooth convex minimization | https://arxiv.org/abs/1606.01424 |
+| 08-19-26 | Target trial emulation | The Role of Assignment in Defining and Identifying Causal Effects in Randomized Trials | https://doi.org/10.1097/EDE.0000000000002034 |
+| 08-19-26 | Target trial emulation | Estimating the effect of pravastatin vs usual care under full adherence in the ALLHAT Lipid-Lowering Trial | https://doi.org/10.1093/aje/kwag049 |
+| 08-19-26 | Target trial emulation | On the Statistical Limitations of Landmark Analysis for Addressing Immortal Time Bias | https://doi.org/10.1002/sim.70679 |
+| 08-19-26 | Target trial emulation | Extending Inferences from a Randomized Trial to Trial-eligible and Treatment-candidate Target Populations | https://doi.org/10.1097/EDE.0000000000001994 |
+| 08-19-26 | Target trial emulation | Vaccine Efficacy Against Naturally Asymptomatic Infections: A Novel Estimand for Quantifying Vaccine Effects | https://doi.org/10.1097/EDE.0000000000002021 |
+| 08-19-26 | Information geometry | Spectral duality structures and the Fisher-Rao geometry of reset distributions | https://arxiv.org/abs/2608.15805 |
+| 08-19-26 | Information geometry | Optimal feedback control under stepwise equilibration and partial observation | https://arxiv.org/abs/2607.21523 |
+| 08-19-26 | Information geometry | Information Geometry meets Functional ANOVA: An Exact Fisher-Information Decomposition, with an Application to Radio Luminosity Functions | https://arxiv.org/abs/2608.05374 |
+| 08-19-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
+| 08-19-26 | Information geometry | An extended Cencov characterization of the information metric | https://www.ams.org/journals/proc/1986-098-01/S0002-9939-1986-0848890-5/ |
