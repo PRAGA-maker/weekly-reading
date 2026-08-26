@@ -290,3 +290,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 08-19-26 | Information geometry | Information Geometry meets Functional ANOVA: An Exact Fisher-Information Decomposition, with an Application to Radio Luminosity Functions | https://arxiv.org/abs/2608.05374 |
 | 08-19-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
 | 08-19-26 | Information geometry | An extended Cencov characterization of the information metric | https://www.ams.org/journals/proc/1986-098-01/S0002-9939-1986-0848890-5/ |
+| 08-26-26 | Bayesian statistics | Post-Processing Posterior Predictive P-values | https://arxiv.org/abs/2605.24169 |
+| 08-26-26 | Bayesian statistics | Posterior Ramifications of Prior Dependence Structures | https://arxiv.org/abs/2312.06437 |
+| 08-26-26 | Bayesian statistics | The Well-Calibrated Bayesian | https://doi.org/10.1080/01621459.1982.10477856 |
+| 08-26-26 | Bayesian statistics | Martingale Posterior Predictive Coherence: Hausdorff Moment Hierarchy | https://arxiv.org/abs/2603.00661 |
+| 08-26-26 | Bayesian statistics | The Dirichlet Process as Sampling Distribution | https://arxiv.org/abs/2607.26185 |
+| 08-26-26 | Learning theory | The Sharp SAT/UNSAT Phase Transition in Random Ellipsoid Fitting | https://arxiv.org/abs/2608.10184 |
+| 08-26-26 | Learning theory | Zeroth-Order Optimization at the Edge of Stability | https://arxiv.org/abs/2604.14669 |
+| 08-26-26 | Learning theory | Dropout and Random Gradient Masking Are Asymptotically Equivalent in Large ResNets | https://arxiv.org/abs/2607.16761 |
+| 08-26-26 | Learning theory | How Many Samples Are Needed to Determine Causal Direction? Sharp Minimax Bounds for Bivariate LiNGAM | https://arxiv.org/abs/2608.15840 |
+| 08-26-26 | Learning theory | The Space of Interactions in Neural Network Models | https://doi.org/10.1088/0305-4470/21/1/030 |
+| 08-26-26 | Target trial emulation | What Phases of the Drug Development Framework Can Epidemiological Studies Emulate? | https://doi.org/10.1093/aje/kwag194 |
+| 08-26-26 | Target trial emulation | Observational Studies Analyzed Like Randomized Experiments: An Application to Postmenopausal Hormone Therapy and Coronary Heart Disease | https://doi.org/10.1097/EDE.0b013e3181875e61 |
+| 08-26-26 | Target trial emulation | Per-Protocol Analyses of Pragmatic Trials | https://doi.org/10.1056/NEJMsm1605385 |
+| 08-26-26 | Target trial emulation | Confusion in Evaluating Research Quality Comes from Lack of Clarity: The Case for Explicit Research Questions | https://doi.org/10.1093/aje/kwag201 |
+| 08-26-26 | Target trial emulation | A Simple and Powerful Test of Vaccine Waning | https://doi.org/10.1093/aje/kwag118 |
+| 08-26-26 | Information geometry | Thermodynamic Geometry of Friction on Graphs: Resistance, Commute Times, and Optimal Transport | https://arxiv.org/abs/2601.01273 |
+| 08-26-26 | Information geometry | Thermodynamic Geometry Through Second Order Phase Transitions | https://arxiv.org/abs/2512.01936 |
+| 08-26-26 | Information geometry | Gating Enables Curvature: A Geometric Expressivity Gap in Attention | https://arxiv.org/abs/2604.14702 |
+| 08-26-26 | Information geometry | Statistical Distance and Hilbert Space | https://doi.org/10.1103/PhysRevD.23.357 |
+| 08-26-26 | Information geometry | Quantum Information Geometry of Multicomponent Superconducting Fluctuation Transport | https://arxiv.org/abs/2606.15928 |
