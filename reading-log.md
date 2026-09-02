@@ -290,3 +290,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 08-19-26 | Information geometry | Information Geometry meets Functional ANOVA: An Exact Fisher-Information Decomposition, with an Application to Radio Luminosity Functions | https://arxiv.org/abs/2608.05374 |
 | 08-19-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
 | 08-19-26 | Information geometry | An extended Cencov characterization of the information metric | https://www.ams.org/journals/proc/1986-098-01/S0002-9939-1986-0848890-5/ |
+| 09-02-26 | Bayesian statistics | Nonparametric Bayesian Inference for Partially Identified Discrete Response Models | https://arxiv.org/abs/2608.25814 |
+| 09-02-26 | Bayesian statistics | Exploiting Exact Conditionals Improves Conditioning: Provably Fast Mixing Time Bounds By Sampling from the Marginal | https://arxiv.org/abs/2608.27884 |
+| 09-02-26 | Bayesian statistics | Stochastic Bayes factors: why, when, and how | https://arxiv.org/abs/2608.29154 |
+| 09-02-26 | Bayesian statistics | poscosea: A Computationally Efficient Sensitivity Analysis for Bayesian Models using the posterior covariance representation | https://arxiv.org/abs/2608.25426 |
+| 09-02-26 | Bayesian statistics | The Well-Calibrated Bayesian | https://doi.org/10.1080/01621459.1982.10477856 |
+| 09-02-26 | Learning theory | The Multiple Timescales of Gradient Descent on the Edge of Stability: A Perturbative Derivation of the Central Flow | https://arxiv.org/abs/2609.01034 |
+| 09-02-26 | Learning theory | Asymptotics for Model Selection in Probabilistic Principal Component Analysis | https://arxiv.org/abs/2608.23513 |
+| 09-02-26 | Learning theory | How Many Samples Are Needed to Determine Causal Direction? Sharp Minimax Bounds for Bivariate LiNGAM | https://arxiv.org/abs/2608.15840 |
+| 09-02-26 | Learning theory | Algorithmic Principles For Multiclass Learning Are Hard To Come By: Limits of Regularization and Proper Learning | https://arxiv.org/abs/2608.26516 |
+| 09-02-26 | Learning theory | Statistical mechanics of learning from examples | https://doi.org/10.1103/PhysRevA.45.6056 |
+| 09-02-26 | Target trial emulation | Lithium for the prevention of suicide in US veterans: a target trial emulation | https://doi.org/10.1136/bmjment-2026-302694 |
+| 09-02-26 | Target trial emulation | Programmatic effectiveness of tuberculosis preventive treatment for people with HIV in six high-tuberculosis-burden countries (PROTECT) | https://doi.org/10.1016/S2352-3018(26)00140-2 |
+| 09-02-26 | Target trial emulation | Specifying a target trial prevents immortal time bias and other self-inflicted injuries in observational analyses | https://doi.org/10.1016/j.jclinepi.2016.04.014 |
+| 09-02-26 | Target trial emulation | Identifiability, exchangeability, and epidemiological confounding | https://doi.org/10.1093/ije/15.3.413 |
+| 09-02-26 | Target trial emulation | Correcting for noncompliance and dependent censoring in an AIDS Clinical Trial with inverse probability of censoring weighted (IPCW) log-rank tests | https://doi.org/10.1111/j.0006-341x.2000.00779.x |
+| 09-02-26 | Information geometry | Finite relaxation protocols with minimal dissipation | https://arxiv.org/abs/2608.25207 |
+| 09-02-26 | Information geometry | The Loss Floor of Denoising Score Matching: Fisher Geometry from Schrödinger Bridges | https://arxiv.org/abs/2608.23916 |
+| 09-02-26 | Information geometry | Information Geometry of Message Passing | https://arxiv.org/abs/2608.15922 |
+| 09-02-26 | Information geometry | Information Geometry of Gradient Flows | https://arxiv.org/abs/2608.21152 |
+| 09-02-26 | Information geometry | An invariant form for the prior probability in estimation problems | https://doi.org/10.1098/rspa.1946.0056 |
