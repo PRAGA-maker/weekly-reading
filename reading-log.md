@@ -290,3 +290,24 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 08-19-26 | Information geometry | Information Geometry meets Functional ANOVA: An Exact Fisher-Information Decomposition, with an Application to Radio Luminosity Functions | https://arxiv.org/abs/2608.05374 |
 | 08-19-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
 | 08-19-26 | Information geometry | An extended Cencov characterization of the information metric | https://www.ams.org/journals/proc/1986-098-01/S0002-9939-1986-0848890-5/ |
+
+| 09-09-26 | Bayesian statistics | Learning rate selection via weighted Fisher divergence | https://arxiv.org/abs/2606.26478 |
+| 09-09-26 | Bayesian statistics | Nonparametric Bayesian Inference for Partially Identified Discrete Response Models | https://arxiv.org/abs/2608.25814 |
+| 09-09-26 | Bayesian statistics | A Generalization of Amari's Bayesian Duality | https://arxiv.org/abs/2609.09126 |
+| 09-09-26 | Bayesian statistics | Posterior concentration and adaptation of the mixing measure in Dirichlet process mixtures | https://arxiv.org/abs/2606.29109 |
+| 09-09-26 | Bayesian statistics | Optimal Information Processing and Bayes's Theorem | https://doi.org/10.1080/00031305.1988.10475585 |
+| 09-09-26 | Learning theory | The Multiple Timescales of Gradient Descent on the Edge of Stability: A Perturbative Derivation of the Central Flow | https://arxiv.org/abs/2609.01034 |
+| 09-09-26 | Learning theory | Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification | https://arxiv.org/abs/2608.06250 |
+| 09-09-26 | Learning theory | Asymptotics for Model Selection in Probabilistic Principal Component Analysis | https://arxiv.org/abs/2608.23513 |
+| 09-09-26 | Learning theory | Lehmer Transform | https://arxiv.org/abs/2609.05790 |
+| 09-09-26 | Learning theory | Risk Equivalence between RKHS Regression and Sequence Models for Lipschitz Spectral Algorithms | https://arxiv.org/abs/2609.08817 |
+| 09-09-26 | Target trial emulation | Negatives about positivity and consistency as conditions for causal inference | https://doi.org/10.1093/aje/kwag093 |
+| 09-09-26 | Target trial emulation | Quantifying the impact of immortal time bias: empirical evidence from meta-analyses | https://doi.org/10.1177/01410768251366880 |
+| 09-09-26 | Target trial emulation | Immortal time bias tends to be more pronounced in methodological studies than in empirical studies: a metaepidemiological study | https://doi.org/10.1016/j.jclinepi.2025.111936 |
+| 09-09-26 | Target trial emulation | Demystifying Clone-Censor-Weighting to Studying Treatment Initiation Windows | https://doi.org/10.1002/pds.70223 |
+| 09-09-26 | Target trial emulation | Double Negative Control Inference in Test-Negative Design Studies of Vaccine Effectiveness | https://doi.org/10.1080/01621459.2023.2220935 |
+| 09-09-26 | Information geometry | The Loss Floor of Denoising Score Matching: Fisher Geometry from Schrödinger Bridges | https://arxiv.org/abs/2608.23916 |
+| 09-09-26 | Information geometry | The Dually Flat Geometry of Planning as Inference | https://arxiv.org/abs/2609.04005 |
+| 09-09-26 | Information geometry | Thermodynamic geometry of friction on graphs: Resistance, commute times, and optimal transport | https://arxiv.org/abs/2601.01273 |
+| 09-09-26 | Information geometry | The Thermodynamic Geometry of Conditional Control | https://arxiv.org/abs/2607.19177 |
+| 09-09-26 | Information geometry | Thermodynamic metrics and optimal paths | https://arxiv.org/abs/1201.4166 |
