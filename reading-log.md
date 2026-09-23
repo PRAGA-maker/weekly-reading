@@ -290,3 +290,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 08-19-26 | Information geometry | Information Geometry meets Functional ANOVA: An Exact Fisher-Information Decomposition, with an Application to Radio Luminosity Functions | https://arxiv.org/abs/2608.05374 |
 | 08-19-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
 | 08-19-26 | Information geometry | An extended Cencov characterization of the information metric | https://www.ams.org/journals/proc/1986-098-01/S0002-9939-1986-0848890-5/ |
+| 09-23-26 | Bayesian statistics | Statistical models as natural transformations: meaningfulness, coherence and priors as states in Markov categories | https://arxiv.org/abs/2609.22929 |
+| 09-23-26 | Bayesian statistics | Posterior concentration and adaptation of the mixing measure in Dirichlet process mixtures | https://arxiv.org/abs/2606.29109 |
+| 09-23-26 | Bayesian statistics | Convex order and preservation of convexity for Bayesian posterior updates | https://arxiv.org/abs/2609.05065 |
+| 09-23-26 | Bayesian statistics | Dutch Books for Language Models | https://arxiv.org/abs/2609.02797 |
+| 09-23-26 | Bayesian statistics | Present Position and Potential Developments: Some Personal Views. Statistical Theory: The Prequential Approach | https://doi.org/10.2307/2981683 |
+| 09-23-26 | Learning theory | The Multiple Timescales of Gradient Descent on the Edge of Stability: A Perturbative Derivation of the Central Flow | https://arxiv.org/abs/2609.01034 |
+| 09-23-26 | Learning theory | High-Dimensional Learning Dynamics of Attention-Indexed Models | https://arxiv.org/abs/2609.03858 |
+| 09-23-26 | Learning theory | Minimax Optimal Early-Stopped Gradient Descent for Gaussian Mixture Classification | https://arxiv.org/abs/2608.06250 |
+| 09-23-26 | Learning theory | Non-Equilibrium Model Selection via Finite-Time Thermodynamics | https://arxiv.org/abs/2606.16399 |
+| 09-23-26 | Learning theory | On Early Stopping in Gradient Descent Learning | https://doi.org/10.1007/s00365-006-0663-2 |
+| 09-23-26 | Target trial emulation | Structural Limitations of Early-Late Treatment Comparisons Under Target Trial Emulation: A Simulation Study | https://doi.org/10.1093/aje/kwag208 |
+| 09-23-26 | Target trial emulation | A simple and powerful test of vaccine waning | https://doi.org/10.1093/aje/kwag118 |
+| 09-23-26 | Target trial emulation | What phases of the drug development framework can epidemiological studies emulate? | https://doi.org/10.1093/aje/kwag194 |
+| 09-23-26 | Target trial emulation | Everything All at Once: On Choosing an Estimand for Multi-component Environmental Exposures | https://doi.org/10.1097/EDE.0000000000002022 |
+| 09-23-26 | Target trial emulation | Observational studies analyzed like randomized experiments: an application to postmenopausal hormone therapy and coronary heart disease | https://doi.org/10.1097/EDE.0b013e3181875e61 |
+| 09-23-26 | Information geometry | A Generalization of Amari's Bayesian Duality | https://arxiv.org/abs/2609.09126 |
+| 09-23-26 | Information geometry | Stochastic Processes as Non-Metric Geodesics in Information Geometry | https://arxiv.org/abs/2609.08870 |
+| 09-23-26 | Information geometry | Exact Asymptotic Efficiency under zCDP: Diameter-Constrained Information Geometry | https://arxiv.org/abs/2609.16895 |
+| 09-23-26 | Information geometry | Preventing Model Collapse: A Fisher-Rao Perspective on the Dynamics of Training with Synthetic Data | https://arxiv.org/abs/2609.18878 |
+| 09-23-26 | Information geometry | Information Geometry of Message Passing | https://arxiv.org/abs/2608.15922 |
