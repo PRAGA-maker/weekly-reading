@@ -290,3 +290,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 08-19-26 | Information geometry | Information Geometry meets Functional ANOVA: An Exact Fisher-Information Decomposition, with an Application to Radio Luminosity Functions | https://arxiv.org/abs/2608.05374 |
 | 08-19-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
 | 08-19-26 | Information geometry | An extended Cencov characterization of the information metric | https://www.ams.org/journals/proc/1986-098-01/S0002-9939-1986-0848890-5/ |
+| 09-30-26 | Bayesian statistics | When Noise Estimation Hides Basis Misspecification in Repeated Bayesian Inverse Problems | https://arxiv.org/abs/2609.37762 |
+| 09-30-26 | Bayesian statistics | Competitive Optimality in Testing by Betting via Bell-Cover Randomization | https://arxiv.org/abs/2609.35714 |
+| 09-30-26 | Bayesian statistics | Competitive Optimality of Logarithmic Investment | https://doi.org/10.1287/moor.5.2.161 |
+| 09-30-26 | Bayesian statistics | Semiparametric Bernstein-von Mises Theorems from Stein's Method | https://arxiv.org/abs/2609.37939 |
+| 09-30-26 | Bayesian statistics | Population-Level Decision Curve Analysis May Mislead the Evaluation of Prediction Model Usefulness under Subgroup Utility Heterogeneity | https://arxiv.org/abs/2609.34521 |
+| 09-30-26 | Learning theory | Benign Overfitting Does Not Occur in Diffusion Models | https://arxiv.org/abs/2607.02671 |
+| 09-30-26 | Learning theory | The Zero Pattern of a Design Matrix Drives Multiple Descent in Over-parameterized Regression | https://arxiv.org/abs/2607.24041 |
+| 09-30-26 | Learning theory | How Deep Are Deep GPs, Really? A Sharp Threshold and a Non-Gaussian Limit for Compositional GPs | https://arxiv.org/abs/2606.08218 |
+| 09-30-26 | Learning theory | The Multiple Timescales of Gradient Descent on the Edge of Stability: A Perturbative Derivation of the Central Flow | https://arxiv.org/abs/2609.01034 |
+| 09-30-26 | Learning theory | Benign Loss Landscapes Can Coexist with Worst-Case Hardness | https://arxiv.org/abs/2609.13057 |
+| 09-30-26 | Target trial emulation | Comparing causal estimands from sequential nested versus single-point target trials: a simulation study | https://doi.org/10.1093/aje/kwag227 |
+| 09-30-26 | Target trial emulation | Causal Identification Conditions for the Effect of Treatment in the Treated: Illustration Using the Northwest Germany Stroke Registry | https://doi.org/10.1097/EDE.0000000000001924 |
+| 09-30-26 | Target trial emulation | An Example to Illustrate Randomized Trial Estimands and Estimators | https://doi.org/10.1080/00031305.2025.2468399 |
+| 09-30-26 | Target trial emulation | Nonparametric Causal Inference for Optogenetics: Sequential Excursion Effects for Dynamic Regimes | https://doi.org/10.1080/01621459.2026.2635071 |
+| 09-30-26 | Target trial emulation | Everything All at Once: On Choosing an Estimand for Multi-component Environmental Exposures | https://doi.org/10.1097/EDE.0000000000002022 |
+| 09-30-26 | Information geometry | Information geometry of emergent symmetry quotients and their weak unfoldings | https://arxiv.org/abs/2609.29260 |
+| 09-30-26 | Information geometry | A two-point approach to the inverse problem in information geometry | https://arxiv.org/abs/2608.16714 |
+| 09-30-26 | Information geometry | The Dually Flat Geometry of Planning as Inference | https://arxiv.org/abs/2609.04005 |
+| 09-30-26 | Information geometry | Stochastic Processes as Non-Metric Geodesics in Information Geometry | https://arxiv.org/abs/2609.08870 |
+| 09-30-26 | Information geometry | G-Exponential Families through Probability Coordinates | https://arxiv.org/abs/2609.03208 |
