@@ -290,3 +290,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 08-19-26 | Information geometry | Information Geometry meets Functional ANOVA: An Exact Fisher-Information Decomposition, with an Application to Radio Luminosity Functions | https://arxiv.org/abs/2608.05374 |
 | 08-19-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
 | 08-19-26 | Information geometry | An extended Cencov characterization of the information metric | https://www.ams.org/journals/proc/1986-098-01/S0002-9939-1986-0848890-5/ |
+| 10-07-26 | Bayesian statistics | Isotropic Gaussian Processes Improve Vanilla Bayesian Optimization in High Dimensions | https://arxiv.org/abs/2610.05780 |
+| 10-07-26 | Bayesian statistics | When Noise Estimation Hides Basis Misspecification in Repeated Bayesian Inverse Problems | https://arxiv.org/abs/2609.37762 |
+| 10-07-26 | Bayesian statistics | Statistical models as natural transformations: meaningfulness, coherence and priors as states in Markov categories | https://arxiv.org/abs/2609.22929 |
+| 10-07-26 | Bayesian statistics | Semiparametric Bernstein-von Mises theorems from Stein's method | https://arxiv.org/abs/2609.37939 |
+| 10-07-26 | Bayesian statistics | A Correspondence Between Bayesian Estimation on Stochastic Processes and Smoothing by Splines | https://doi.org/10.1214/aoms/1177697089 |
+| 10-07-26 | Learning theory | Principal Component Regression Dominates all Monotone Spectral Filters for Linear Regression | https://arxiv.org/abs/2609.39440 |
+| 10-07-26 | Learning theory | How abundant are good interpolators? | https://arxiv.org/abs/2606.06469 |
+| 10-07-26 | Learning theory | A Flatness-Generalization Relation in the Teacher-Student Tree-Committee Machine | https://arxiv.org/abs/2609.31101 |
+| 10-07-26 | Learning theory | Broken scale symmetries in undercomplete linear autoencoders | https://arxiv.org/abs/2610.03640 |
+| 10-07-26 | Learning theory | The space of interactions in neural network models | https://doi.org/10.1088/0305-4470/21/1/030 |
+| 10-07-26 | Target trial emulation | A Structural Description of Biases That Generate Immortal Time | https://doi.org/10.1097/EDE.0000000000001808 |
+| 10-07-26 | Target trial emulation | Emulating a target trial in case-control designs: an application to statins and colorectal cancer | https://doi.org/10.1093/ije/dyaa144 |
+| 10-07-26 | Target trial emulation | Diagnosing Covariate Balance Across Levels of Right-Censoring Before and After Application of Inverse-Probability-of-Censoring Weights | https://doi.org/10.1093/aje/kwz136 |
+| 10-07-26 | Target trial emulation | Use of clone-censor-weight to avoid immortal-time bias: a systematic methodological review | https://doi.org/10.1016/j.jclinepi.2026.112468 |
+| 10-07-26 | Target trial emulation | Emulating target trials of postexposure vaccines using observational data | https://doi.org/10.1093/aje/kwae350 |
+| 10-07-26 | Information geometry | The Loss Floor of Denoising Score Matching: Fisher Geometry from Schrödinger Bridges | https://arxiv.org/abs/2608.23916 |
+| 10-07-26 | Information geometry | Learning the exogenous rate but not the distance to criticality in nearly unstable heavy-tailed Hawkes processes | https://arxiv.org/abs/2609.38268 |
+| 10-07-26 | Information geometry | The Dually Flat Geometry of Planning as Inference | https://arxiv.org/abs/2609.04005 |
+| 10-07-26 | Information geometry | The Advective Fisher-Rao Geometry of Deterministic Measure Transport | https://arxiv.org/abs/2608.12111 |
+| 10-07-26 | Information geometry | Logarithmic divergences: geometry and interpretation of curvature | https://arxiv.org/abs/1906.09103 |
