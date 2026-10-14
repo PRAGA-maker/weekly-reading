@@ -290,3 +290,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 08-19-26 | Information geometry | Information Geometry meets Functional ANOVA: An Exact Fisher-Information Decomposition, with an Application to Radio Luminosity Functions | https://arxiv.org/abs/2608.05374 |
 | 08-19-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
 | 08-19-26 | Information geometry | An extended Cencov characterization of the information metric | https://www.ams.org/journals/proc/1986-098-01/S0002-9939-1986-0848890-5/ |
+| 10-14-26 | Bayesian statistics | Overlap, Not Moments: Finite-Sample Theory for Bridge Sampling | https://arxiv.org/abs/2610.17403 |
+| 10-14-26 | Bayesian statistics | Bagged Martingale Posteriors: Calibrated Uncertainty Quantification for Predictive Resampling | https://arxiv.org/abs/2609.30622 |
+| 10-14-26 | Bayesian statistics | Synthetic Priors | https://arxiv.org/abs/2603.00347 |
+| 10-14-26 | Bayesian statistics | Limit theorems for a class of identically distributed random variables | https://arxiv.org/abs/math/0410105 |
+| 10-14-26 | Bayesian statistics | Three Homoscedastic Gaussian Components Have at Most Four Modes | https://arxiv.org/abs/2610.15369 |
+| 10-14-26 | Learning theory | Averaged Annealed Markov Chains Achieve the Algorithmic Threshold for Tensor PCA, Part I: Glauber Dynamics | https://arxiv.org/abs/2610.16705 |
+| 10-14-26 | Learning theory | The hidden advantage of mask resampling: a theory of masked autoencoders | https://arxiv.org/abs/2610.01578 |
+| 10-14-26 | Learning theory | Symmetry-Aware Feature Learning: A Polynomial Separation for Multi-Index Models | https://arxiv.org/abs/2610.08420 |
+| 10-14-26 | Learning theory | Generic Local Identifiability Does Not Imply Generic Global Identifiability in Linear Networks | https://arxiv.org/abs/2610.18228 |
+| 10-14-26 | Learning theory | High-dimensional dynamics of generalization error in neural networks | https://arxiv.org/abs/1710.03667 |
+| 10-14-26 | Target trial emulation | Towards a Clearer Causal Question Underlying the Association Between Cancer and Dementia | https://doi.org/10.1097/EDE.0000000000001712 |
+| 10-14-26 | Target trial emulation | Challenges in Estimating Effects of Hypothetical Interventions on Resources Patterned by Structural Racism | https://doi.org/10.1093/aje/kwaf072 |
+| 10-14-26 | Target trial emulation | Initiator Types and the Causal Question of the Prevalent New-User Design: A Simulation Study | https://doi.org/10.1093/aje/kwaa283 |
+| 10-14-26 | Target trial emulation | When to Start, How to Classify, and Whom to Include: Clone-Censor-Weight for Evaluating Intervention Timing | https://doi.org/10.2147/CLEP.S618946 |
+| 10-14-26 | Target trial emulation | Inference Procedures in Sequential Trial Emulation With Survival Outcomes | https://doi.org/10.1177/09622802251356594 |
+| 10-14-26 | Information geometry | How Inefficient Is Natural Gradient Descent? From Exact Optimality to Theta(sqrt(log d)) Divergence | https://arxiv.org/abs/2610.07228 |
+| 10-14-26 | Information geometry | The Loss Floor of Denoising Score Matching: Fisher Geometry from Schrodinger Bridges | https://arxiv.org/abs/2608.23916 |
+| 10-14-26 | Information geometry | The Advective Fisher-Rao Geometry of Deterministic Measure Transport | https://arxiv.org/abs/2608.12111 |
+| 10-14-26 | Information geometry | The Dually Flat Geometry of Planning as Inference | https://arxiv.org/abs/2609.04005 |
+| 10-14-26 | Information geometry | Statistical Inference, Occam's Razor and Statistical Mechanics on the Space of Probability Distributions | https://arxiv.org/abs/cond-mat/9601030 |
