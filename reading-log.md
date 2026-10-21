@@ -290,3 +290,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 08-19-26 | Information geometry | Information Geometry meets Functional ANOVA: An Exact Fisher-Information Decomposition, with an Application to Radio Luminosity Functions | https://arxiv.org/abs/2608.05374 |
 | 08-19-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
 | 08-19-26 | Information geometry | An extended Cencov characterization of the information metric | https://www.ams.org/journals/proc/1986-098-01/S0002-9939-1986-0848890-5/ |
+| 10-21-26 | Bayesian statistics | Bagged Martingale Posteriors: Calibrated Uncertainty Quantification for Predictive Resampling | https://arxiv.org/abs/2609.30622 |
+| 10-21-26 | Bayesian statistics | Statistical models as natural transformations: meaningfulness, coherence and priors as states in Markov categories | https://arxiv.org/abs/2609.22929 |
+| 10-21-26 | Bayesian statistics | Optimal Priors for Betting Tests with Bounded Payoffs: An Exact Efficiency Characterization | https://arxiv.org/abs/2610.25821 |
+| 10-21-26 | Bayesian statistics | Inconsistency between Frequentist and Bayesian inference, approximation of improper priors and permissible priors | https://arxiv.org/abs/2610.26422 |
+| 10-21-26 | Bayesian statistics | Limit theorems for a class of identically distributed random variables | https://doi.org/10.1214/009117904000000676 |
+| 10-21-26 | Learning theory | Learning a Group Element from Its Action: Galois Correspondences, Optimal ERM, and an Abel-Ruffini Threshold for the Natarajan Dimension | https://arxiv.org/abs/2610.18154 |
+| 10-21-26 | Learning theory | Benign Loss Landscapes Can Coexist with Worst-Case Hardness | https://arxiv.org/abs/2609.13057 |
+| 10-21-26 | Learning theory | Sample complexity of weak-signal latent-variable models | https://arxiv.org/abs/2610.24770 |
+| 10-21-26 | Learning theory | The Multiple Timescales of Gradient Descent on the Edge of Stability: A Perturbative Derivation of the Central Flow | https://arxiv.org/abs/2609.01034 |
+| 10-21-26 | Learning theory | Living on the edge: Phase transitions in convex programs with random data | https://arxiv.org/abs/1303.6672 |
+| 10-21-26 | Information geometry | How Inefficient Is Natural Gradient Descent? From Exact Optimality to Theta(sqrt(log d)) Divergence | https://arxiv.org/abs/2610.07228 |
+| 10-21-26 | Information geometry | The Dually Flat Geometry of Planning as Inference | https://arxiv.org/abs/2609.04005 |
+| 10-21-26 | Information geometry | Fisher Information Metric as a model-free measure of proximity to criticality in neural systems | https://arxiv.org/abs/2609.07624 |
+| 10-21-26 | Information geometry | Finite-resolution exhaustive traversal of thermodynamic state spaces has divergent thermodynamic length | https://arxiv.org/abs/2606.29751 |
+| 10-21-26 | Information geometry | Entropy differential metric, distance and divergence measures in probability spaces: A unified approach | https://doi.org/10.1016/0047-259X(82)90065-3 |
+| 10-21-26 | Target trial emulation | A Structural Description of Biases That Generate Immortal Time | https://doi.org/10.1097/EDE.0000000000001808 |
+| 10-21-26 | Target trial emulation | The Target Trial Framework for Causal Inference From Observational Data: Why and When Is It Helpful? | https://doi.org/10.7326/ANNALS-24-01871 |
+| 10-21-26 | Target trial emulation | Causal inference in multi-cohort studies using the target trial framework to identify and minimize sources of bias | https://doi.org/10.1093/aje/kwae405 |
+| 10-21-26 | Target trial emulation | Effectiveness of Metformin in Preventing Herpes Zoster Among Japanese Patients With Type 2 Diabetes: A Target Trial Emulation | https://doi.org/10.1002/jmv.70606 |
+| 10-21-26 | Target trial emulation | Electronic medical records can be used to emulate target trials of sustained treatment strategies | https://doi.org/10.1016/j.jclinepi.2017.11.021 |
