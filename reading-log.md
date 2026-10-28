@@ -290,3 +290,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 08-19-26 | Information geometry | Information Geometry meets Functional ANOVA: An Exact Fisher-Information Decomposition, with an Application to Radio Luminosity Functions | https://arxiv.org/abs/2608.05374 |
 | 08-19-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
 | 08-19-26 | Information geometry | An extended Cencov characterization of the information metric | https://www.ams.org/journals/proc/1986-098-01/S0002-9939-1986-0848890-5/ |
+| 10-28-26 | Bayesian statistics | Beyond Brown's radial tests: admissibility, parabolicity, and a doubling-Poincaré prior that neither test decides | https://arxiv.org/abs/2610.34309 |
+| 10-28-26 | Bayesian statistics | On the asymptotic behaviour of alpha-divergence generalized posteriors | https://arxiv.org/abs/2610.35330 |
+| 10-28-26 | Bayesian statistics | Bagged Martingale Posteriors: Calibrated Uncertainty Quantification for Predictive Resampling | https://arxiv.org/abs/2609.30622 |
+| 10-28-26 | Bayesian statistics | Posterior Frequencies and the Cost of Not Fitting: A Correction to a Memorization Lower Bound | https://arxiv.org/abs/2610.20402 |
+| 10-28-26 | Bayesian statistics | On the Consistency of Bayes Estimates | https://doi.org/10.1214/aos/1176349830 |
+| 10-28-26 | Learning theory | Learning a Group Element from Its Action: Galois Correspondences, Optimal ERM, and an Abel-Ruffini Threshold for the Natarajan Dimension | https://arxiv.org/abs/2610.18154 |
+| 10-28-26 | Learning theory | Dimension-Free Scaling Laws for Size Generalization: An Exponential Separation | https://arxiv.org/abs/2610.19279 |
+| 10-28-26 | Learning theory | Singular Geometry of Low-Rank Adaptation | https://arxiv.org/abs/2610.32854 |
+| 10-28-26 | Learning theory | The Multiple Timescales of Gradient Descent on the Edge of Stability: A Perturbative Derivation of the Central Flow | https://arxiv.org/abs/2609.01034 |
+| 10-28-26 | Learning theory | A Distribution-Free Separation Between Learned and Fixed Features | https://arxiv.org/abs/2610.25335 |
+| 10-28-26 | Target trial emulation | Structural Limitations of Early-Late Treatment Comparisons Under Target Trial Emulation: A Simulation Study | https://doi.org/10.1093/aje/kwag208 |
+| 10-28-26 | Target trial emulation | Nesting a Target Study within a Target Trial: A Framework for Evaluating Intervention Effects on Disparities | https://doi.org/10.1097/EDE.0000000000002024 |
+| 10-28-26 | Target trial emulation | Adapting the prevalent new-user study design and clone-censor-weighting approach to evaluate drug discontinuation | https://doi.org/10.1093/aje/kwag238 |
+| 10-28-26 | Target trial emulation | Everything All at Once: On Choosing an Estimand for Multi-component Environmental Exposures | https://doi.org/10.1097/EDE.0000000000002022 |
+| 10-28-26 | Target trial emulation | Estimate Optimal Dynamic Treatment Regimes with Partial Compatibility | https://doi.org/10.1093/aje/kwag254 |
+| 10-28-26 | Information geometry | How Inefficient Is Natural Gradient Descent? From Exact Optimality to Theta(sqrt(log d)) Divergence | https://arxiv.org/abs/2610.07228 |
+| 10-28-26 | Information geometry | Stochastic Processes as Non-Metric Geodesics in Information Geometry | https://arxiv.org/abs/2609.08870 |
+| 10-28-26 | Information geometry | Exact Asymptotic Efficiency under zCDP: Diameter-Constrained Information Geometry | https://arxiv.org/abs/2609.16895 |
+| 10-28-26 | Information geometry | G-Exponential Families through Probability Coordinates | https://arxiv.org/abs/2609.03208 |
+| 10-28-26 | Information geometry | Defining the Curvature of a Statistical Problem, with Applications to Second Order Efficiency | https://doi.org/10.1214/aos/1176343282 |
