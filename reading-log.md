@@ -290,3 +290,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 08-19-26 | Information geometry | Information Geometry meets Functional ANOVA: An Exact Fisher-Information Decomposition, with an Application to Radio Luminosity Functions | https://arxiv.org/abs/2608.05374 |
 | 08-19-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
 | 08-19-26 | Information geometry | An extended Cencov characterization of the information metric | https://www.ams.org/journals/proc/1986-098-01/S0002-9939-1986-0848890-5/ |
+| 11-04-26 | Bayesian statistics | A Bayesian-Geometric Reading of Classical Model-Based Optimal Design | https://arxiv.org/abs/2611.04450 |
+| 11-04-26 | Bayesian statistics | Optimal Priors for Betting Tests with Bounded Payoffs: An Exact Expected-Time Characterization | https://arxiv.org/abs/2610.25821 |
+| 11-04-26 | Bayesian statistics | Inconsistency between Frequentist and Bayesian inference, approximation of improper priors and permissible priors | https://arxiv.org/abs/2610.26422 |
+| 11-04-26 | Bayesian statistics | Canonical Layer Inference for Deep Gaussian Processes via Symmetry-Breaking Augmentation | https://arxiv.org/abs/2610.23842 |
+| 11-04-26 | Bayesian statistics | Merging of Opinions with Increasing Information | https://doi.org/10.1214/aoms/1177704456 |
+| 11-04-26 | Learning theory | Information-Dense Synthesis for Molecular Discovery | https://arxiv.org/abs/2610.08495 |
+| 11-04-26 | Learning theory | Beyond Multi-Index Models: Learning Intersections of Degree-2 PTFs | https://arxiv.org/abs/2611.05114 |
+| 11-04-26 | Learning theory | Singular Geometry of Low-Rank Adaptation | https://arxiv.org/abs/2610.32854 |
+| 11-04-26 | Learning theory | Optimal Explicit and Implicit Regularization Strengths in High-Dimensional Continual Linear Regression | https://arxiv.org/abs/2610.20804 |
+| 11-04-26 | Learning theory | Statistical mechanics of learning from examples | https://doi.org/10.1103/PhysRevA.45.6056 |
+| 11-04-26 | Target trial emulation | Comparing causal estimands from sequential nested versus single point target trials: a simulation study | https://doi.org/10.1093/aje/kwag227 |
+| 11-04-26 | Target trial emulation | Informing sample size and power calculations for clone-censor-weight analyses: a Monte Carlo simulation study of the variance inflation factor relative to the underlying target trial | https://doi.org/10.1016/j.jclinepi.2026.112576 |
+| 11-04-26 | Target trial emulation | Use of clone-censor-weight to avoid immortal-time bias: a systematic methodological review | https://doi.org/10.1016/j.jclinepi.2026.112468 |
+| 11-04-26 | Target trial emulation | Generalizing Conditional Average Treatment Effects From Nested Randomized Trials to Trial-Eligible Individuals | https://doi.org/10.1002/sim.70767 |
+| 11-04-26 | Target trial emulation | Specifying a target trial prevents immortal time bias and other self-inflicted injuries in observational analyses | https://doi.org/10.1016/j.jclinepi.2016.04.014 |
+| 11-04-26 | Information geometry | How Inefficient Is Natural Gradient Descent? From Exact Optimality to Theta(sqrt(log d)) Divergence | https://arxiv.org/abs/2610.07228 |
+| 11-04-26 | Information geometry | Estimators from Convex Geometries of the Simplex | https://arxiv.org/abs/2610.21551 |
+| 11-04-26 | Information geometry | The Bayesian Learning Rule Beyond KL Geometry | https://arxiv.org/abs/2610.31308 |
+| 11-04-26 | Information geometry | Information geometry of continuum limits in lattice field theory: The Gross-Neveu model with Wilson fermions | https://arxiv.org/abs/2610.34277 |
+| 11-04-26 | Information geometry | Differential Geometry of Curved Exponential Families, Curvatures and Information Loss | https://doi.org/10.1214/aos/1176345779 |
