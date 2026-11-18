@@ -290,3 +290,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 08-19-26 | Information geometry | Information Geometry meets Functional ANOVA: An Exact Fisher-Information Decomposition, with an Application to Radio Luminosity Functions | https://arxiv.org/abs/2608.05374 |
 | 08-19-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
 | 08-19-26 | Information geometry | An extended Cencov characterization of the information metric | https://www.ams.org/journals/proc/1986-098-01/S0002-9939-1986-0848890-5/ |
+| 11-18-26 | Bayesian statistics | A mechanistic characterization of missingness at random | https://arxiv.org/abs/2611.22022 |
+| 11-18-26 | Bayesian statistics | The random analyst | https://arxiv.org/abs/2611.21081 |
+| 11-18-26 | Bayesian statistics | Asymptotics of Gibbs Posterior Measures on Infinite-Dimensional Hypothesis Spaces | https://arxiv.org/abs/2611.23214 |
+| 11-18-26 | Bayesian statistics | Species sampling priors through exact augmentation | https://arxiv.org/abs/2611.13323 |
+| 11-18-26 | Bayesian statistics | Statistical Theory: The Prequential Approach | https://doi.org/10.2307/2981683 |
+| 11-18-26 | Learning theory | The Manifold-Index Model: provably and efficiently avoiding the statistical and computational curse of dimensionality | https://arxiv.org/abs/2611.20275 |
+| 11-18-26 | Learning theory | High-dimensional limit theorems for adaptive variants of SGD I: Ballistic limits | https://arxiv.org/abs/2611.19059 |
+| 11-18-26 | Learning theory | High-Dimensional Learning Dynamics of Attention-Indexed Models | https://arxiv.org/abs/2609.03858 |
+| 11-18-26 | Learning theory | A Distribution-Free Separation Between Learned and Fixed Features | https://arxiv.org/abs/2610.25335 |
+| 11-18-26 | Learning theory | Statistical mechanics of learning from examples | https://doi.org/10.1103/PhysRevA.45.6056 |
+| 11-18-26 | Target trial emulation | Structural Limitations of Early-Late Treatment Comparisons Under Target Trial Emulation: A Simulation Study | https://doi.org/10.1093/aje/kwag208 |
+| 11-18-26 | Target trial emulation | What phases of the drug development framework can epidemiological studies emulate? | https://doi.org/10.1093/aje/kwag194 |
+| 11-18-26 | Target trial emulation | Informing sample size and power calculations for clone-censor-weight analyses: a Monte Carlo simulation study of the variance inflation factor relative to the underlying target trial | https://doi.org/10.1016/j.jclinepi.2026.112576 |
+| 11-18-26 | Target trial emulation | Specifying a target trial prevents immortal time bias and other self-inflicted injuries in observational analyses | https://doi.org/10.1016/j.jclinepi.2016.04.014 |
+| 11-18-26 | Target trial emulation | Observational studies analyzed like randomized experiments: an application to postmenopausal hormone therapy and coronary heart disease | https://doi.org/10.1097/EDE.0b013e3181875e61 |
+| 11-18-26 | Information geometry | How Inefficient Is Natural Gradient Descent? From Exact Optimality to Theta(sqrt(log d)) Divergence | https://arxiv.org/abs/2610.07228 |
+| 11-18-26 | Information geometry | Characterizing M-estimators using canonical divergences from information geometry | https://arxiv.org/abs/2611.18141 |
+| 11-18-26 | Information geometry | Compositional Information Geometry of Probabilistic Programs | https://arxiv.org/abs/2610.17886 |
+| 11-18-26 | Information geometry | Bregman geometry in regular exponential families: dual representations and relative smoothness | https://arxiv.org/abs/2611.18480 |
+| 11-18-26 | Information geometry | An Infinite-Dimensional Geometric Structure on the Space of all the Probability Measures Equivalent to a Given One | https://doi.org/10.1214/aos/1176324311 |
