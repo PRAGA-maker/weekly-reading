@@ -290,3 +290,23 @@ Every title and link below has been recommended. Do not recommend any of them ag
 | 08-19-26 | Information geometry | Information Geometry meets Functional ANOVA: An Exact Fisher-Information Decomposition, with an Application to Radio Luminosity Functions | https://arxiv.org/abs/2608.05374 |
 | 08-19-26 | Information geometry | Weak Information Geometry: Riemannian Structures from Distributional Inference Functions and Stein Discrepancies | https://arxiv.org/abs/2607.11246 |
 | 08-19-26 | Information geometry | An extended Cencov characterization of the information metric | https://www.ams.org/journals/proc/1986-098-01/S0002-9939-1986-0848890-5/ |
+| 11-25-26 | Bayesian statistics | Limit theorems for almost conditionally identically distributed random variables | https://arxiv.org/abs/2611.28967 |
+| 11-25-26 | Bayesian statistics | Rational v. Radical: Trajectory Properties of Iterated Bayesian Updates | https://arxiv.org/abs/2611.24430 |
+| 11-25-26 | Bayesian statistics | Asymptotics of Gibbs Posterior Measures on Infinite-Dimensional Hypothesis Spaces | https://arxiv.org/abs/2611.23214 |
+| 11-25-26 | Bayesian statistics | Greedy Empirical Bayes for Density Estimation | https://arxiv.org/abs/2611.22796 |
+| 11-25-26 | Bayesian statistics | Limit theorems for a class of identically distributed random variables | https://doi.org/10.1214/009117904000000676 |
+| 11-25-26 | Learning theory | Mirror Descent at the Edge of Stability | https://arxiv.org/abs/2611.29043 |
+| 11-25-26 | Learning theory | Exponential memory/query-complexity tradeoffs in high-accuracy feasibility problems | https://arxiv.org/abs/2611.29320 |
+| 11-25-26 | Learning theory | Near-Quadratic Sample Compression for All VC Classes | https://arxiv.org/abs/2611.25011 |
+| 11-25-26 | Learning theory | Attention Head Specialization: Phase Transitions in Sample Complexity | https://arxiv.org/abs/2611.26228 |
+| 11-25-26 | Learning theory | Statistical mechanics of learning from examples | https://doi.org/10.1103/PhysRevA.45.6056 |
+| 11-25-26 | Target trial emulation | Laundered Survival: When Target Trial Emulation Doesn't Emulate | https://doi.org/10.1016/j.jclinepi.2026.112595 |
+| 11-25-26 | Target trial emulation | Adapting the prevalent new-user study design and clone-censor-weighting approach to evaluate drug discontinuation | https://doi.org/10.1093/aje/kwag238 |
+| 11-25-26 | Target trial emulation | Informing sample size and power calculations for clone-censor-weight analyses | https://doi.org/10.1016/j.jclinepi.2026.112576 |
+| 11-25-26 | Target trial emulation | Use of clone-censor-weight to avoid immortal-time bias: a systematic methodological review | https://doi.org/10.1016/j.jclinepi.2026.112468 |
+| 11-25-26 | Target trial emulation | Observational studies analyzed like randomized experiments: hormone therapy and coronary heart disease | https://doi.org/10.1097/EDE.0b013e3181875e61 |
+| 11-25-26 | Information geometry | Characterizing M-estimators using canonical divergences from information geometry | https://arxiv.org/abs/2611.18141 |
+| 11-25-26 | Information geometry | The Bayesian Learning Rule Beyond KL Geometry | https://arxiv.org/abs/2610.31308 |
+| 11-25-26 | Information geometry | Dually flat structure of von Mises-Fisher distributions | https://arxiv.org/abs/2610.39249 |
+| 11-25-26 | Information geometry | Thermodynamic geometry of three coupled Ising spins: exact curvature, frustration and bond anisotropy | https://arxiv.org/abs/2611.08072 |
+| 11-25-26 | Information geometry | Geometry of minimum contrast | https://projecteuclid.org/euclid.hmj/1206128508 |
